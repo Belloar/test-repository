@@ -50,21 +50,7 @@ namespace collections
             nums.AddRange(numbers);
             Console.WriteLine(string.Join(" " ,nums));
 
-           /*
-            for(int i = 0 ; i < nums.Count ; i++)
-            {
-                Console.Write(nums[i] + " ");
-            }
-
-            Stack<string> names = new Stack<string> ();
-            names.Push("Ade");
-            names.Push("segun");
-
-            Console.WriteLine(names.Peek()); Console.WriteLine(names.Pop());Console.WriteLine(names.Pop());
-
-            Dictionary<char,int> chars = new Dictionary<char, int>();
-            string str = "commision";*/
-            
+         
             /*
             foreach(var letter in str)
             {
