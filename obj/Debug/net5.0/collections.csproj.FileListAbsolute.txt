@@ -1,0 +1,16 @@
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\collections.csproj.AssemblyReference.cache
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\collections.AssemblyInfoInputs.cache
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\collections.AssemblyInfo.cs
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\bin\Debug\net5.0\collections.exe
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\bin\Debug\net5.0\collections.deps.json
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\bin\Debug\net5.0\collections.runtimeconfig.json
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\bin\Debug\net5.0\collections.runtimeconfig.dev.json
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\bin\Debug\net5.0\collections.dll
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\bin\Debug\net5.0\ref\collections.dll
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\bin\Debug\net5.0\collections.pdb
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\collections.dll
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\ref\collections.dll
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\collections.pdb
+C:\Users\ABD'RAHMAN BELLO\Desktop\c#\classes\collections\obj\Debug\net5.0\collections.genruntimeconfig.cache
